@@ -5,6 +5,7 @@ ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Rob
 ```
 conda activate remembr
 python -m pip install -r requirements.txt
+pip install ai2thor
 ```
 2.Install MilvusDB
 ```
