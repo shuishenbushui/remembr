@@ -1,7 +1,7 @@
-# Unofficial Simplified Implementation of NVIDIA's ReMEmbR in AI2-THOR Environment
-ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robots
-[Bilibili 视频：机器人演示]([https://www.bilibili.com/video/BV1xx411c7mD](https://www.bilibili.com/video/BV1nRbkzmEZd/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f5aceb5f4e7793d3e5cabca8dcfa32ed))
-# setup
+# 🤖 Unofficial Simplified Implementation of NVIDIA's ReMEmbR in AI2-THOR Environment 🧠
+ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robots \
+## 🎥 [Bilibili 视频：机器人演示](https://www.bilibili.com/video/BV1nRbkzmEZd/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f5aceb5f4e7793d3e5cabca8dcfa32ed)
+## 🛠️ setup
 1.Install Python dependencies
 ```
 conda activate remembr
@@ -13,7 +13,7 @@ pip install ai2thor
 curl -sfL https://raw.githubusercontent.com/milvus-io/milvus/master/scripts/standalone_embed.sh -o launch_milvus_container.sh
 ```
 
-# run
+## 🚀 run
 0.Switching to Conda environment
 ```
 source activate remembr
