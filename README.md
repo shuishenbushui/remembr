@@ -1,5 +1,5 @@
 # 🤖 Unofficial Simplified Implementation of NVIDIA's ReMEmbR in AI2-THOR Environment 🧠
-ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robots \
+ReMEmbR: Building and Reasoning Over Long-Horizon Spatio-Temporal Memory for Robots 
 ## 🎥 [Bilibili 视频：机器人演示](https://www.bilibili.com/video/BV1nRbkzmEZd/?spm_id_from=333.1387.homepage.video_card.click&vd_source=f5aceb5f4e7793d3e5cabca8dcfa32ed)
 ## 🛠️ setup
 1.Install Python dependencies
@@ -35,7 +35,7 @@ export OPENAI_API_KEY = "your OPENAI_API_KEY"
 export OPENAI_API_BASE_URL = "your OPENAI_API_BASE_URL"
 python task.py --ai2thor_scene_name=FloorPlan10
 ```
-Ask the agent a question 
+Then you can ask the agent any questions 
 
 
     
