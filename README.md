@@ -22,14 +22,14 @@ source activate remembr
 ```
 bash launch_milvus_container.sh start
 ```
-2.build memory
+2.Build memory
 ```
 export OPENAI_API_KEY="your OPENAI_API_KEY"
 export OPENAI_API_BASE_URL="your OPENAI_API_BASE_URL"
 python build_mem.py --ai2thor_scene_name=FloorPlan10
 ```
 Control the robot to roam around and collect and analyze images \
-3.query
+3.Query
 ```
 export OPENAI_API_KEY = "your OPENAI_API_KEY"
 export OPENAI_API_BASE_URL = "your OPENAI_API_BASE_URL"
